@@ -1,0 +1,77 @@
+<nav class="nav has-shadow">
+    <div class="container is-fluid">
+        <div class="nav-left nav-brand">
+            <a href="{{ "/" | prepend: site.baseurl }}" class="nav-item sitetitle">
+            The&nbsp;<span class="red">Information</span>&nbsp;Diet
+            </a>
+        </div>
+        <div class="nav-center">
+            {% if site.social.github %}
+            <a href="https://github.com/{{ site.social.github }}" class="nav-item">
+            <span class="icon">
+                <i class="fa fa-github"></i>
+            </span>
+            </a>
+            {% endif %}
+            {% if site.social.email %}
+            <a href="mailto:{{ site.social.email }}" class="nav-item">
+            <span class="icon">
+                <i class="fa fa-envelope-o"></i>
+            </span>
+            </a>
+            {% endif %}
+            {% if site.social.facebook %}
+            <a href="https://facebook.com/{{ site.social.facebook }}" class="nav-item">
+            <span class="icon">
+                <i class="fa fa-facebook"></i>
+            </span>
+            </a>
+            {% endif %}
+            {% if site.social.twitter %}
+            <a href="https://twitter.com/{{ site.social.twitter }}" class="nav-item">
+            <span class="icon">
+                <i class="fa fa-twitter"></i>
+            </span>
+            </a>
+            {% endif %}
+            {% if site.social.instagram %}
+            <a href="https://instagram.com/{{ site.social.instagram }}" class="nav-item">
+            <span class="icon">
+                <i class="fa fa-instagram"></i>
+            </span>
+            </a>
+            {% endif %}
+            {% if site.social.tumblr %}
+            <a href="https://{{ site.social.tumblr }}.tumblr.com" class="nav-item">
+            <span class="icon">
+                <i class="fa fa-tumblr"></i>
+            </span>
+            </a>
+            {% endif %}
+        </div>
+        <span class="nav-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+    </span>
+        <div class="nav-right nav-menu">
+            <a href="{{ "/archive" | prepend: site.baseurl }}" class="nav-item {% if page.url == "/archive" %} is-active {% endif %}">
+            Blog
+            </a>
+            <a href="{{ "/media" | prepend: site.baseurl }}" class="nav-item {% if page.url == "/media" %} is-active {% endif %}">
+                                
+ <span>Media</span>
+            </a>
+
+            <div class="nav-item">
+                <a href="/speaking"><span>Speaking</span></a>
+            </div>
+                        <div class="nav-item">
+                <a href="/contact"><span>Contact</span></a>
+            </div>
+            <div class="nav-item">
+                <a href="/about"><span>About Clay</span></a>
+            </div>
+        </div>
+    </div>
+</nav>

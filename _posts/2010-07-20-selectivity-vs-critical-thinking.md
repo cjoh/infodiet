@@ -1,0 +1,26 @@
+---
+layout: post
+title: Selectivity vs. Critical Thinking
+permalink: /blog/read/selectivity-vs-critical-thinking
+---
+ Earlier I suggested that we weren’t dealing with an information overload problem but rather an information overconsumption one. Increasingly, people are searching for new ways to focus. Startup operatives are turning to drugs like provigil with the promise that if will help them focus on what’s important. The issue is that we’re dealing with a new problem for our species: abundance. Information, like food, has been key to our species’ survival, and we’re hard-wired to seek it out. We’re playing our consumption games under the rules of scarcity, and the rules changed.
+
+ The abundance problem is new. Food has only recently become abundant for much of our species, and in this country it is having some remarkable effects. It’s certainly a problem my grandparents didn’t deal with. Between the great depression and now we invented the dollar menu so that we didn’t have to cook our shoes and the Internet so we didn’t have to wonder for very long. So let’s assume something has changed, and much of our species is now dealing with new problems of information abundance rather than information scarcity. What’s one to do? How do we cope?
+
+ As much as critical thinking helps, our minds can’t possibly process and critically think about all the information we’re consuming. We cannot and do not just take information in, think about it, judge it for its accuracy and then throw out the bad stuff after we’ve thought about it. Over-reliance on critical thinking is the equivalent of intellectual bulimia. We can’t just take stuff in and reject the stuff that’s not good for us. When we try and consume too much information, we lose our ability to critically think about any of it.
+
+ So what’s the answer?
+
+ As we continue to improve our critical thinking skills, we also need to be more selective about the information we put in our bodies. We need to think critically about the source before we think critically about the content. And we need to think critically about the type of information we’re consuming. Then we need to eliminate the stuff that’s not very good for us.The answer is healthy information dieting, and the fundamental part of a good information diet is conscious information selectivity. Just as we should select the food we put in our bodies based on how good it is for us, so should we consume information. It must be conscious selectivity because we need to be aware of our own consumption— as you are consuming this blog post now, you should recognize it as consuming something like sitting at a dinner table and eating. Before consumption, you should take a sniff of it, make sure it looks all right, and maybe figure out where it comes from. Our brains have a finite capacity, and thus we should be conscious of what we put in there.
+
+ So where to get started? What kinds of things could you eliminate from your information diet? Start by subtracting the following two things from your information diet:
+
+###  Advertising
+
+ The great lie of the television industry is that advertising gives us “free tv.” I don’t have any data to cite, but my hunch is television advertising costs us more by inspiring us to buy stuff we don’t need than what it’d cost us to just buy the television shows themselves. Convert your household to a low-advertising zone. At a minimum a Roku box, and stick with Netflix and Amazon streaming on demand, and you’ll knock your basic TV consumption costs down by about 50%, and that doesn’t count the hundreds of dollars you probably unwittingly spend a year as a result of consuming television advertisements. Getting rid of advertisements on the web is pretty easy too. While there’s no way to truly escape all advertising content, there are ways to minimize your exposure to it. It’s a good first step in being more selective with your information consumption, and it could be that these ads aren’t just annoying, but also bad for your health.
+
+###  “News” you agree with
+
+ The overconsumption of “news” that affirms your beliefs only furthers you from being able to see the truth, and entrenches you in a set of beliefs you can’t break out of. You should set yourself a news diet that doesn’t include too much DailyKos or FreeRepublic.com. This stuff isn’t all bad for you, but recognize it as the sugar of information. It makes you feel great and empowered, but too much of it will detach you from reality\*. Treat that stuff the same way you treat some ice cream. Lay off the Olbermann and O’Reilly, their absence may add years to your life.
+
+ This is where the conscious stuff really comes into play— building an awareness of the type of information you’re consuming alongside the reason behind why you’re consuming it will go a long way towards helping you maintain your focus and ability to critically think about it. You watch the O’Reilly Factor because it makes you feel good to hear somebody that you agree with. Knowing that’s why you’re consuming it and placing limits around the amount of it that you consume will go a long way towards both your mental and physical health, and your ability to discern fact from fiction.

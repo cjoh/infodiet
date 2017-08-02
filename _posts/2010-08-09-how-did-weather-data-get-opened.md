@@ -1,0 +1,32 @@
+---
+layout: post
+title: How Did Weather Data Get Opened
+permalink: /blog/read/how-did-weather-data-get-opened
+---
+ Weather data is one of the datasets the current administration loves to talk about. Indeed, it’s proof that transparency goes beyond accountability. The data from the National Weather Service supports a huge industry. According to the American Meteorological Society, the total size of the private sector weather market is greater than 1.5 Billion Dollars. Keeping in mind that it isn’t its core function to support industry, a federal agency that has a billion dollar annual budget is supporting a more than billion dollar private industry through the release of its data is a great lesson in the power of open data.
+
+ If we’re going to use this as an example for why government should open data, we should take a look at how it got to be open in the first place.
+
+ Thomas Jefferson was a huge weather fan— he took regular weather observations, and even noted it was 76 degrees while penning the Declaration of Independence. He even began to build a regional volunteer weather network in Virginia though it was short-lived due to the revolutionary war. And while our framers were avid weather enthusiasts, weather wouldn’t become nationalized for nearly a century.
+
+ The first truly formal collections of data were founded by super-hobbyists like Jefferson and the worldwide Meteorological Society of Palatinate and weaved its way into the Smithsonian in 1849. Its first secretary, Joseph Henry created a national network of volunteer telegraph operators. Each operator telegraphed in wind, rain and temperature data, and Henry would place color coded cards on a map of the nation on display in the Smithsonian Castle. But just as the revolutionary war put a halt to Jefferson’s weather collection the civil war would put a halt to Henry’s modernized telegraph operation.
+
+ It wasn’t until after the Civil War that we saw the creation of a truly nationalized, government driven weather service. There were three key components to making this happen: a data driven scientist making a case that weather data could save lives, a union with a glut of soldiers who weren’t useful during peacetime, and a member of Congress (and union soldier himself) who could make the connection.
+
+ Around the end of the Civil War, Professor Cleveland Abbe in Ohio started talking about the ability to make data driven “probabilities” (or forecasts) based on the short period of data beforehand. One of Abbe’s collegues, A Professor I.A. Lapham submitted a petition to the Chicago Academy of Science to make a storm warning system for Lake Michigan. His petition was entitled “Disaster on the Lakes” and included citations of hundreds of deaths, millions of dollars worth of property damage and thousands of casualties all due to weather. Lapham finally visited his Congressman Halbert E. Paine of Milwaukee to sign the petition.
+
+ In 1865 Major Albert Myer was struggling to find purpose. In 1863 he had been promoted to colonel and Chief Signal Officer of the Army (mainly due to his invention of a new form of signaling) but as the Civil War wound down, he was informed that his promotion was never confirmed and had been revoked. And the Signal Corps had its budget cut in half. He employed a variety of lawyers and lobbyists and eventually met with Congressman Paine.
+
+ In 1870 Congress passed a Joint Resolution appropriating a Signal Service for the army headed by Colonel Myer, the Chief Signal Officer. The Signal Service’s job was to collect weather observations at the military stations inside the United States and to let the stations on the great lakes and the coast know when a storm was coming. The chief scientist of the signal Corps was Cleveland Abbe, and Myer eventually lobbied himself up to Brigadier General.
+
+ A couple decades of military measurement went by before president Benjamin Harrison’s first annual address where he requested that Congress move the weather service into a civilian led Department of Agriculture. Big industries began demanding the data. Transportation and railroad companies— alongside riverboat operators demanded access to the data of the weather Bureau. A few years later, anything that could be affected by weather was demanding access to and was dependent upon weather data from the National Weather Service.
+
+ And now a 1.5 billion dollar industry exists. Having an industry built upon your data creates a different set of challenges.
+
+ While the administration touts it as an amazing success of how government can create an industry through the release of data there is tension. National Council of Industrial Meteorologists, for instance, spends a significant amount of time dealing with government. It’s so tense the NCIM actually produced an online course on public and private sector collaboration. Take a look at the papers they’ve written and you’ll see that the NCIM is extremely concerned about the expansion of the National Weather Service into providing services for ordinary citizens. What they want is for government to recognize that private sector meteorologists are NOAA’s primary stakeholders and that NOAA should not unfairly compete with the private sector. It’s even hit legislation. In 2005, then Senator Rick Santorum tried to shut down the National Weather Service’s dissemination of data to the public. It died in committee.
+
+ Weather data didn’t come to be because of an Open Government Directive. It wasn’t created because of a White House mandate. Government did not release the data and then enterprising people built companies on top of it. It’s more accurate to make the argument that we have a national weather service because of one man’s deep desire to keep his job and to get promoted to colonel in the Army. It could be a vast network of lobbyists to help that man get promoted, or the vast network of lobbyists from shipping companies trying to get access to data already being created. Or it could be that it was just pretty obvious that access to weather data would save lives.
+
+ Or it could be that the very nature of the data was such that it’s open in the first place. You can’t stop a free person from knowing that it’s raining.
+
+ There are two really great sources for this article. The first is The Weather Bureau, Its History Activities and Organization from the Institute for Government Research. The second is Erik Craft’s “Economic History of Weather Forecasting”

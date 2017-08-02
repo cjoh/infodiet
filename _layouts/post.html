@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} {% endif %} {{ site.name }}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <link rel="icon" href="{{ "/assets/images/favicon.png" | prepend: site.baseurl }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <link rel="stylesheet" href="{{ "/assets/css/application.css" | prepend: site.baseurl }}" />
+    <link rel="stylesheet" href="{{ "/assets/css/prism.css" | prepend: site.baseurl }}" />
+</head>
+<body>
+{% include nav.html %}
+<section class="section">
+<div class="container">
+<h1 class="posttitle has-text-centered">{{ page.title }}</h1>
+
+<div class="columns">
+    <div class="column is-7 is-offset-1">
+        <div class="content post">
+        {{ content }}
+        </div>
+
+    </div>
+    <div class="column is-3 has-text-centered is-light" >
+    
+        {% include sidebar.html %}
+        
+    </div>
+    </div>
+</div>
+</section>
+</body></html>

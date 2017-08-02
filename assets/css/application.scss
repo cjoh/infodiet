@@ -1,0 +1,109 @@
+---
+---
+// Imports
+@import "variables";
+
+// Bulma.io CSS Framework
+@import "bulma/utilities/_all";
+@import "bulma/base/_all";
+@import "bulma/elements/_all";
+@import "bulma/components/_all";
+@import "bulma/grid/_all";
+@import "bulma/layout/_all";
+
+// Font-Awesome
+@import "font-awesome/font-awesome.scss";
+@import "https://fonts.googleapis.com/css?family=Sarala:400,700|Zilla+Slab";
+// Custom
+.nav-brand {
+  font-family: $sans-serif, sans-serif;
+  font-weight: bold;
+  font-size: 40pt;
+  color: #000;
+}
+.title {
+  font-family: $sans-serif, sans-serif;
+  font-weight: 700;
+}
+.post-card {
+  .post-title {
+    font-size: 1.6em;
+  }
+  .post-categories {
+    margin-bottom: 5px;
+  }
+}
+.sitetitle {
+    font-size: 18pt;
+    color: #000;
+}
+.red {
+    color: $red;
+}
+.sidebar {
+    text-align: center;
+    padding: 10px;
+    padding-top: 30px;
+    background-color: $grey-lighter;
+    color: black;
+    .title {
+        color: $grey-dark;
+    }
+    height: 100%;
+}
+.bookbox {
+padding-top: 20px;
+    padding-bottom: 20px;
+}
+.column {
+  display: initial;
+}
+p {
+    font-size: $size-4;
+    line-height: 2rem;
+    padding: 10;
+}
+columns {
+    background-color: $blue;
+}
+.post-title a {
+  font-family: $sans-serif, sans-serif;
+  font-weight: 700;
+  font-size: $size-3;
+  color: $blue-dark;
+}
+.posttitle {
+  font-family: $sans-serif, sans-serif;
+  font-weight: bold;
+  font-size: $size-1;
+  color: #000;
+  padding-bottom: 10px;
+
+}
+.post{
+
+    h2 {
+        font-family: $sans-serif, sans-serif;
+        font-weight: 700;
+        font-size: $size-3;
+    }
+}
+.button {
+    font-family: $sans-serif, sans-serif;
+        font-weight: bold;
+}
+.testimonials {
+  background-color: $grey-light;
+  margin-top: 20px;
+  p {
+        font-family: 'Signika Negative', sans-serif;
+    
+    font-size: $size-6;
+  }
+}
+.subtitle {
+  font-family: $sans-serif;
+}
+.hero {
+  text-align: center;
+}
