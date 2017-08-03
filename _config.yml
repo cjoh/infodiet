@@ -33,6 +33,8 @@ social:
   twitter: cjoh
   email: clay@informationdiet.com
   facebook: theclayjohnson
+sass:
+    style: compressed
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
