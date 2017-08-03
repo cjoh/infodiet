@@ -1,40 +1,89 @@
 <footer class="footer">
     <div class="container">
-        <div class="content has-text-centered">
-            <p>
-                {% if site.social.github %}
-                <a class="icon" href="https://github.com/{{ site.social.github }}">
-                    <i class="fa fa-github"></i>
+        <div class="columns">
+            <div class="column">
+                <div class="content has-text-centered">
+                    <p>
+                        {% if site.social.github %}
+                        <a class="icon" href="https://github.com/{{ site.social.github }}">
+                            <i class="fa fa-github"></i>
+                        </a>
+                        {% endif %}
+                        {% if site.social.email %}
+                        <a class="icon" href="mailto:{{ site.social.email }}">
+                            <i class="fa fa-envelope-o"></i>
+                        </a>
+                        {% endif %}
+                        {% if site.social.facebook %}
+                        <a class="icon" href="https://facebook.com/{{ site.social.facebook }}">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                        {% endif %}
+                        {% if site.social.twitter %}
+                        <a class="icon" href="https://twitter.com/{{ site.social.twitter }}">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                        {% endif %}
+                        {% if site.social.instagram %}
+                        <a class="icon" href="https://instagram.com/{{ site.social.instagram }}">
+                            <i class="fa fa-instagram"></i>
+                        </a>
+                        {% endif %}
+                        {% if site.social.tumblr %}
+                        <a class="icon" href="https://{{ site.social.tumblr }}.tumblr.com">
+                            <i class="fa fa-tumblr"></i>
+                        </a>
+                        {% endif %}
+                    </p>
+                </div>
+            </div>
+            <div class="column has-text-centered">
+                <div class="footeritem">
+                    <a href="/archive">
+                        <span>Blog</span>
+                    </a>
+                </div>
+                <div class="footeritem">
+                <a href="/media">    
+                    <span>Media</span>
                 </a>
-                {% endif %}
-                {% if site.social.email %}
-                <a class="icon" href="mailto:{{ site.social.email }}">
-                    <i class="fa fa-envelope-o"></i>
-                </a>
-                {% endif %}
-                {% if site.social.facebook %}
-                <a class="icon" href="https://facebook.com/{{ site.social.facebook }}">
-                    <i class="fa fa-facebook"></i>
-                </a>
-                {% endif %}
-                {% if site.social.twitter %}
-                <a class="icon" href="https://twitter.com/{{ site.social.twitter }}">
-                    <i class="fa fa-twitter"></i>
-                </a>
-                {% endif %}
-                {% if site.social.instagram %}
-                <a class="icon" href="https://instagram.com/{{ site.social.instagram }}">
-                    <i class="fa fa-instagram"></i>
-                </a>
-                {% endif %}
-                {% if site.social.tumblr %}
-                <a class="icon" href="https://{{ site.social.tumblr }}.tumblr.com">
-                    <i class="fa fa-tumblr"></i>
-                </a>
-                {% endif %}
-            </p>
+                </div>
+                <div class="footeritem">
+                    <a href="/speaking"><span>Speaking</span></a>
+                </div>
+                <div class="footeritem">
+                    <a href="/contact"><span>Contact</span></a>
+                </div>
+                <div class="footeritem">
+                    <a href="/about"><span>About Clay</span></a>
+                </div>
+                </nav>
+            </div>
         </div>
     </div>
 </footer>
+
+<script src="{{ site.baseurl }}{{ "/assets/js/jquery-3.1.1.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/prism.js" | prepend: site.baseurl }}"></script>
+<script>
+    $('.nav-toggle').bind('click', function(){
+        var menus = $(this).siblings(".nav-menu");
+        if(menus.hasClass('is-active')){
+            menus.removeClass('is-active');
+        } else {
+            menus.addClass('is-active');
+        }
+    });
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-16970833-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </body>
 </html>
