@@ -24,3 +24,5 @@ For readers it's to be ever more skeptical of the information being presented to
 Don't let the industrialized media do the thinking for you. And actively avoid supporting any form of media that tries to. So little news is actually relevant or actionable to you anyway. So just stick to the stories and journalists that are trying to be of service. Some examples that come to mind are Ars Technica and ProPublica.
 
 Let's dispose of the notion that disclosure -- something one has to do because they're ethically obligated to do so -- is the same thing as transparency -- something one does because they're being of service -- are the same thing. They're not.
+
+[Marcia Lee for Mayor of Chattahoochee Hills](http://marciaformayor.com)
